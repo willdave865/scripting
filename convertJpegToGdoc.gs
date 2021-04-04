@@ -19,6 +19,8 @@ while (files.hasNext()) { var file = files.next();
 Drive.Files.insert({title: file.getName(), parents: [{id: dstFolderId}]
 }, 
 file.getBlob(), {ocr: true}); 
+
+// note this removes files from temp but puts them into drive
 file.getParents().next().removeFile(file);
    
   }
