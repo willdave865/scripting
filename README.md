@@ -6,7 +6,7 @@ Scripts that work on files (converting jpeg to gdocs, deleting files etc) are st
 Drive>My Docs>Hist Research>CON> Project Gscripts>GitHub CON Project 
 
 
-Scripts that work on sheets (creating sheet, outputting sheet notes etc) are *bound scripts* the spreadsheet the script is bound to is known as the script *container* 
+Scripts that work on sheets (creating sheet, outputting sheet notes etc) are *bound scripts* the spreadsheet script is bound to is known as the script *container* 
   - sheet scripts appear under the 'Custom' button when clicked on. For example searchNotes.gs appears in the Working.gsheet
   - selecting Tools>Script Editor in this sheet gives access to all script files that have been bound to this sheet
 
