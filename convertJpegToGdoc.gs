@@ -1,4 +1,4 @@
-// Script converts copies of .jpg to .gdoc files from source dir temp. 
+// convertJpegToGdoc script converts copies of .jpg to .gdoc files from source dir temp. 
 // Run script to OCR gdocs to dir target (both dir Google Drive root)
 // Last file converted is removed from source dir temp
 
