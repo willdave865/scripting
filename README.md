@@ -3,7 +3,7 @@ Scripts written to perform operations on files in Google Drive, Google Sheets an
 Script storage for .gs scripts 
 Scripts that work on files (converting jpeg to gdocs, deleting files etc) are stored: 
 
-Drive>My Docs>Hist Research>CON> Project Gscripts>GitHub CON Project 
+Drive>My Docs>Hist Research>CON_Proj> Project Gscripts>GitHub CON Project 
 
 
 Scripts that work on sheets (creating sheet, outputting sheet notes etc) are *bound scripts* the spreadsheet script is bound to is known as the script *container* 
